@@ -2,6 +2,10 @@
 
 Este repositorio proporciona código e instrucciones para utilizar Jupyter Notebook, instalar las dependencias requeridas e implementar un sistema de recomendación de películas utilizando el algoritmo de vecinos más cercanos (KNN, por sus siglas en inglés).
 
+## Repositorio
+
+[Repositorio Git](https://github.com/pacifi/movie_recomend.git)
+
 ## Tabla de contenido
 - [Prerrequisitos](#prerrequisitos)
 - [Instalación](#instalación)
