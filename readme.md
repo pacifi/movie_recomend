@@ -67,4 +67,9 @@ Siéntete libre de modificar y personalizar el código según tus necesidades o 
 ## Contribuciones
 ¡Las contribuciones son bienvenidas! Si tienes ideas, mejoras o correcciones de errores, abre un issue o envía una solicitud de extracción (pull request).
 
-Asegúrate de seguir el código de
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Siéntete libre de utilizar y distribuir el código según los términos de la licencia.
+
+Ten en cuenta que este archivo readme sirve como una plantilla general y debes personalizarlo en función de los detalles específicos de tu proyecto.
+
