@@ -1,4 +1,4 @@
-# Repositorio de Git - Readme
+# KNN Movie Recomend
 
 Este repositorio proporciona código e instrucciones para utilizar Jupyter Notebook, instalar las dependencias requeridas e implementar un sistema de recomendación de películas utilizando el algoritmo de vecinos más cercanos (KNN, por sus siglas en inglés).
 
